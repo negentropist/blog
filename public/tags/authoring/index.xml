@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Authoring on negentropist</title>
+    <link>http://localhost:1313/tags/authoring/</link>
+    <description>Recent Posts in Authoring on negentropist</description>
+    <generator>Hugo 0.159.1</generator>
+    <language>en-us</language>
+    <managingEditor>ton@email.com (Ton Nom)</managingEditor>
+    <webMaster>ton@email.com (Ton Nom)</webMaster>
+    <lastBuildDate>Tue, 31 Mar 2026 11:55:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/authoring/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

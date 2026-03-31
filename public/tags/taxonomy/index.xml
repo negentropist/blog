@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+  <channel>
+    <title>Taxonomy on negentropist</title>
+    <link>http://localhost:1313/tags/taxonomy/</link>
+    <description>Recent Posts in Taxonomy on negentropist</description>
+    <generator>Hugo 0.159.1</generator>
+    <language>en-us</language>
+    <managingEditor>ton@email.com (Ton Nom)</managingEditor>
+    <webMaster>ton@email.com (Ton Nom)</webMaster>
+    <lastBuildDate>Tue, 31 Mar 2026 11:53:06 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entropy</title>
+      <link>http://localhost:1313/en/post/entropy/</link>
+      <pubDate>Mon, 30 Mar 2026 10:30:47 +0200</pubDate>
+      <author>ton@email.com (Ton Nom)</author>
+      <dc:creator>[negentropist]</dc:creator>
+      <guid>http://localhost:1313/en/post/entropy/</guid>
+      <description>&lt;p&gt;It is the natural order of things. The universe tends towards chaos.&lt;/p&gt;&#xA;&lt;p&gt;To the universe, it is neutral. To humans, it is lethal.&lt;/p&gt;&#xA;&lt;p&gt;Maintaining such a complex structure as the human body is a 24/7 battle against nature. Entropy is direct harm to our integrity.&lt;/p&gt;&#xA;&lt;p&gt;To live is to practice negentropy.&lt;/p&gt;&#xA;&lt;p&gt;There is no sacred mission or hidden meaning. There is only the persistence of structure until decay.&lt;/p&gt;&#xA;&lt;p&gt;Money is the most concentrated agent of negentropy. It is the tool we use to guarantee persistence and blend the environment to our advantage.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;It is the natural order of things. The universe tends towards chaos.&lt;/p&gt;&#xA;&lt;p&gt;To the universe, it is neutral. To humans, it is lethal.&lt;/p&gt;&#xA;&lt;p&gt;Maintaining such a complex structure as the human body is a 24/7 battle against nature. Entropy is direct harm to our integrity.&lt;/p&gt;&#xA;&lt;p&gt;To live is to practice negentropy.&lt;/p&gt;&#xA;&lt;p&gt;There is no sacred mission or hidden meaning. There is only the persistence of structure until decay.&lt;/p&gt;&#xA;&lt;p&gt;Money is the most concentrated agent of negentropy. It is the tool we use to guarantee persistence and blend the environment to our advantage.&lt;/p&gt;&#xA;</content:encoded>
+    </item>
+  </channel>
+</rss>

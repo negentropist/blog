@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Project</title>
+    <title>negentropist</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <description>Recent content on negentropist</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:30:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:30:47 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entropy</title>
-      <link>http://localhost:1313/posts/entropy/</link>
-      <pubDate>Tue, 31 Mar 2026 10:30:47 +0200</pubDate>
-      <guid>http://localhost:1313/posts/entropy/</guid>
+      <link>http://localhost:1313/entropy/</link>
+      <pubDate>Mon, 30 Mar 2026 10:30:47 +0200</pubDate>
+      <guid>http://localhost:1313/entropy/</guid>
       <description>&lt;p&gt;It is the natural order of things. The universe tends towards chaos.&lt;/p&gt;&#xA;&lt;p&gt;To the universe, it is neutral. To humans, it is lethal.&lt;/p&gt;&#xA;&lt;p&gt;Maintaining such a complex structure as the human body is a 24/7 battle against nature. Entropy is direct harm to our integrity.&lt;/p&gt;&#xA;&lt;p&gt;To live is to practice negentropy.&lt;/p&gt;&#xA;&lt;p&gt;There is no sacred mission or hidden meaning. There is only the persistence of structure until decay.&lt;/p&gt;&#xA;&lt;p&gt;Money is the most concentrated agent of negentropy. It is the tool we use to guarantee persistence and blend the environment to our advantage.&lt;/p&gt;</description>
     </item>
   </channel>
