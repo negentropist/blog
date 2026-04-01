@@ -1,9 +1,8 @@
 {{ define "main" }}
     <article>
-        <header>
+        <header style="margin-bottom: 2rem;">
 	   	<h1>{{ .Title }}</h1>
 		<time>{{ .Date.Format "Jan 02, 2006" }}</time>
-		<hr>
         </header>
         <section class="post-content">
             {{ .Content }}
