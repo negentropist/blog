@@ -33,7 +33,7 @@ When staring at this poor construction site, i wasn't only looking at concrete w
 
 Signals that here, we don't finish what we start, and we don't care since we sweep the dust under the carpet. 
 
-Signals that we pile tasks and things instead of treating each of the tasks as they come. 
+Signals that we pile tasks and things instead of processing each of them as they come. 
 
 Signals that, even by seeing this several times a day when going to the toilet for few months, we made the choice not to finish each time we saw it.
 
