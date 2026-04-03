@@ -17,4 +17,4 @@ To live is to practice negentropy.
 
 There is no sacred mission or hidden meaning. There is only the persistence of structure until decay.
 
-Money is the most concentrated agent of negentropy. It is the tool we use to guarantee persistence and blend the environment to our advantage.
+Money is the most concentrated agent of negentropy. It is the tool we use to guarantee persistence and bend the environment to our advantage.
