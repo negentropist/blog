@@ -1,7 +1,7 @@
 ---
 title: "Systems and associations" 
 date: 2026-04-03T10:46:37+02:00
-draft: true
+draft: false
 ---
 
 Think of everything as system, receiving matter as input, processing it and outputting a new form.
