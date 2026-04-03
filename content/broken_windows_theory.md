@@ -17,11 +17,11 @@ One un-repaired window is a signal that here, we don't care, and thus, chaos is 
 
 Although it is mainly used in criminology, social sciences and public sphere, i find it exceptionally well working in all fields of perception.
 
-Let's say you're doing a diet to lose excess weight and wonder if you can have a cheat meal. You think: "I've made great progress. I can allow this. It's not as if i eat this every day".
+Let's say you're doing a diet to lose excess weight and wonder if you can have a cheat meal. You think: "I've made great progress. I can allow this. It's not as if I eat this every day".
 
 This is a broken window, and this is a signal to yourself that your standards are negotiable. 
 
-It is a signal that here, we don't fully respect our engagements and that we recompensate ourselves with junk food? Maybe that diet was initiated for the wrong reason, wanting to look fit instead of being healthy.
+It is a signal that here, we don't fully respect our engagements and that we reward ourselves with junk food? Maybe that diet was initiated for the wrong reason, wanting to look fit instead of being healthy.
 
 Thus, we don't care, and the building starts to decay, succumbing to entropy.
 
@@ -31,7 +31,7 @@ I once saw a man watching a tv concerto for 4 hours straight, with the walls of 
 
 When staring at this poor construction site, i wasn't only looking at concrete walls, i was seeing through the wall, receiving signals.
 
-Signals that here, we don't finish what we start, and we don't care since we put the dust under the carpet. 
+Signals that here, we don't finish what we start, and we don't care since we sweep the dust under the carpet. 
 
 Signals that we pile tasks and things instead of treating each of the tasks as they come. 
 
