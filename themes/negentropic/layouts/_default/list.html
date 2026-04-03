@@ -1,17 +1,17 @@
 {{ define "main" }}
 <section class="post-list">
-    <div class="posts-container">
+    <div class="list-container">
         {{ range .Pages }}
-        <article class="post-item" onclick="window.location.href='{{ .Permalink }}';">
-		<div class="post-header">
-			<h1>{{ .Title }}</h1>
-			<time>{{ .Date.Format "Jan 02, 2006" }}</time>
+        <div class="list-item" onclick="window.location.href='{{ .Permalink }}';">
+		<div class="list-item-header">
+			<h2>{{ .Title }}</h2>
+			<time class="list-item-date">{{ .Date.Format "Jan 02, 2006" }}</time>
 		</div>
-		<div class="post-summary">
+		<div class="list-item-summary">
 			<p>{{ .Summary | plainify | safeHTML }}</p>
-			<div class="fade-overlay"></div>
+			<div class="list-item-fade-overlay"></div>
 		</div>
-        </article>
+        </div>
         {{ end }}
     </div>
 </section>
