@@ -3,6 +3,8 @@ locale = 'en-us'
 title = 'negentropist'
 theme = 'negentropic'
 
+contentDir = 'content'
+
 [params]
 	author="negentropist"	
-
+	
