@@ -5,6 +5,8 @@ date = '2026-04-01T14:16:19+02:00'
 draft = false
 +++
 
+![A decaying building image](decaying_building.png)
+
 > "*Leave a broken window on a building, vandals will break more. Leave all those broken windows, squatters will get in and occupy the building. Leave the squatters in the building, and they will start a fire inside it."*
 
 This theory was introduced by James Q Wilson and George L Kelling in 1982 in an article titled "Broken Windows".
