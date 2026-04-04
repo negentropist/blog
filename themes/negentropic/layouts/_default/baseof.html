@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<meta charset="UTF-8">
-	<meta name="color-scheme" content="dark">	
 	<title>{{ .Title }}</title>
+	
+	<meta charset="UTF-8">
+	<meta name="color-scheme" content="dark">
+	
 	<link rel="stylesheet" href="/css/style.css">
-
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 </head>
 <body>
-	<div class="main-header">
-		<h1><a href="/">home</a></h1>
+	<div class="body-container">
+		<div class="header">
+			<h1><a href="/">home</a></h1>
+		</div>
+		<div>
+			{{ block "posts" . }}{{ end }}
+		</div>
+		<div class="footer">
+			<p>&copy; {{ now.Format "2006" }} - {{ site.Params.author }}</p>
+		</div>
 	</div>
-
-	<main>
-		{{ block "main" . }}{{ end }}
-	</main>
-
-	<footer>
-		<p>&copy; {{ now.Format "2006" }} - {{ site.Params.author }}</p>
-	</footer>
 </body>
 </html>

@@ -1,18 +1,16 @@
-{{ define "main" }}
-<section class="post-list">
-    <div class="list-container">
+{{ define "posts" }}
+    <div class="posts-container">
         {{ range (where .Site.RegularPages "Section" "posts")  }}
-        <div class="list-item" onclick="window.location.href='{{ .Permalink }}';">
-		<div class="list-item-header">
+        <div class="post-summary" onclick="window.location.href='{{ .Permalink }}';">
+		<div class="post-summary-header">
 			<h2>{{ .Title }}</h2>
-			<time class="list-item-date">{{ .Date.Format "Jan 02, 2006" }}</time>
+			<time>{{ .Date.Format "Jan 02, 2006" }}</time>
 		</div>
-		<div class="list-item-summary">
+		<div class="post-summary-text">
 			<p>{{ .Summary | plainify | safeHTML }}</p>
-			<div class="list-item-fade-overlay"></div>
+			<div class="post-summary-fade-overlay"></div>
 		</div>
         </div>
         {{ end }}
     </div>
-</section>
 {{ end }}

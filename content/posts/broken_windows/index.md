@@ -1,11 +1,11 @@
 +++
-title = 'Broken Windows Theory'
+title = 'Cracks'
 type = "post"
 date = '2026-04-01T14:16:19+02:00'
-draft = false
+draft = true
 +++
 
-![A decaying building image](decaying_building.png)
+![A crack in a wall](crack.png)
 
 > *Leave a broken window on a building, vandals will break more. Leave them unrepaired, squatters will get in and occupy the building. Leave them live in the building, and they will start a fire inside it.*
 
@@ -16,6 +16,8 @@ It states that visible signs of crime, antisocial behavior and civil disorder cr
 One un-repaired window is a signal that here, we don't care, and thus, chaos is allowed.
 
 Although it is mainly used in criminology, social sciences and public sphere, i find it exceptionally well working in all fields of perception.
+
+--
 
 Imagine you're doing a diet to lose excess weight and wonder if you can have a cheat meal. You think: "I've made great progress. I can allow this. It's not as if I eat this every day".
 
