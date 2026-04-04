@@ -6,9 +6,7 @@ draft: false
 
 ![A node graph image](nodes.png)
 
-Think of everything as system, receiving matter as input, processing it and outputting a new form.
-
-The processing part is influenced by what the system let in and out of it. 
+Think of everything as systems with connected dots.
 
 Be around someone eating junk food, watching tiktok, procrastinating, you will be pulled towards obesity, scrolling, mediocrity.
 

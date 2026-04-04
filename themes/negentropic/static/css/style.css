@@ -1,14 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
 
 body {
-font-family: "IBM Plex Sans", sans-serif;
+	font-family: "IBM Plex Sans", sans-serif;
 	line-height: 1.6;
 	max-width: 600px;
-	margin: 0 auto;
 	padding: 2rem;
 	color: white;
 	background-color: #181a1b;
 	user-select: none;
+}
+
+@media (max-width:500px)
+{
+	body {
+		max-width:100%;
+		padding:1rem;
+	}
+
+	.post-content {
+		font-size:1.3rem;
+	}
 }
 
 a {
