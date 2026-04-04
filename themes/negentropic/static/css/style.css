@@ -19,6 +19,8 @@ a {
 
 a:hover { color: #ffffff; }
 
+img { max-width: 100%; }
+
 hr {
 	margin-top:2rem;
 	margin-bottom:2rem;

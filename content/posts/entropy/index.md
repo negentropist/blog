@@ -5,7 +5,7 @@ date = '2026-03-30T10:30:47+02:00'
 draft = false
 +++
 
-
+![test](entropy.png)
 
 It is the natural order of things. The universe tends towards chaos.
 

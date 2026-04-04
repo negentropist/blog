@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>negentropist</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on negentropist</description>
+    <title>Posts on negentropist</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on negentropist</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2026 10:46:37 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Associations</title>
-      <link>http://localhost:1313/posts/associations/</link>
+      <title>Systems and associations</title>
+      <link>http://localhost:1313/posts/associations/association_theory/</link>
       <pubDate>Fri, 03 Apr 2026 10:46:37 +0200</pubDate>
-      <guid>http://localhost:1313/posts/associations/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;nodes.png&#34; alt=&#34;A node graph image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Think of everything as system, receiving matter as input, processing it and outputting a new form.&lt;/p&gt;&#xA;&lt;p&gt;The processing part is influenced by what the system let in and out of it.&lt;/p&gt;&#xA;&lt;p&gt;Allowing bad forms of information will lead to contamination of your system, thus, to decay.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What do you let yourself perceive?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Be around someone eating junk food, watching tiktok, procrastinating, you will be pulled towards obesity, scrolling, mediocrity.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/associations/association_theory/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;nodes.png&#34; alt=&#34;A node graph image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Think of everything as system, receiving matter as input, processing it and outputting a new form.&lt;/p&gt;&#xA;&lt;p&gt;The processing part is influenced by what the system let in and out of it.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What do you let yourself perceive?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Allowing bad forms of information will lead to contamination of your system, thus, to decay.&lt;/p&gt;&#xA;&lt;p&gt;Be around a system that does not care about what they eat, you will be pulled towards them asking you to go eat at a fast food, ordering uber eats, skipping gym.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Broken Windows Theory</title>
