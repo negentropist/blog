@@ -8,20 +8,12 @@ draft: false
 
 Think of everything as systems with connected dots.
 
-Be around someone eating junk food, watching tiktok, procrastinating, you will be pulled towards obesity, scrolling, mediocrity.
+Be around someone eating junk food, smoking, watching tiktok, procrastinating, you will be pulled towards the dots of obesity, cancer, scrolling, mediocrity.
 
 Those examples are dots linked to the system, they are **associated** to it.
 
-What are the things linked to this thing? Do i want them to be linked to me and give them a chance to influence me?
+What are the things linked to this one? Do i want them linked to me and give them the opportunity to influence me?
 
 **Scan your environment and cut the strings**
-
-![A face receiving informations](informations.png)
-
-Allowing bad forms of information will lead to contamination of your system, thus, to decay. 
-
-These can apply to any form of information: music, video content, articles, television, environment, relations.
-
-**What do you let yourself perceive?**
 
 
