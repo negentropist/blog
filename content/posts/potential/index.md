@@ -1,7 +1,7 @@
 ---
 title: "Potential"
 date: 2026-04-07T21:21:16+02:00
-draft: true
+draft: false
 ---
 
 ![A man sitting on a beach, watching a nuclear explosion](comfort.png)
